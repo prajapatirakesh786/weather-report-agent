@@ -70,7 +70,7 @@ Weather Report Agent/
 ## Step 1: Clone the Repository
 
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/prajapatirakesh786/weather-report-agent.git
 cd Weather\ Report\ Agent
 
 ```
